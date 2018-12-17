@@ -1,2 +1,9 @@
 # xiyan_kernel_xiaomi_sirius
-Mi 8SE
+
+#Build Date:17th Dec 2018
+
+#Latest Tag (Base tag): LA.UM.6.8.r2-02600-SDM710.0
+
+#Author: xiyanxy
+
+Add diff file,you can check it.
